@@ -23,7 +23,6 @@ Agricultural performance is known to vary across seasons, but raw farm data does
 - No single weather variable (rainfall, temperature, soil moisture) strongly predicts yield at the individual farm level — season behaves as a combined effect rather than one driver.
 - Flood irrigation is the least water-efficient method in every season; Drip is the best-performing active irrigation method.
 
-Full methodology, statistical tests, and charts are in the notebook.
 
 ## Repository Contents
 
@@ -36,4 +35,4 @@ Full methodology, statistical tests, and charts are in the notebook.
 
 ## Tools Used
 
-Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, NumPy,Matplotlib, Seaborn, Jupyter Notebook
