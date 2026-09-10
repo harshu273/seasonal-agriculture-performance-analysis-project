@@ -37,7 +37,3 @@ Full methodology, statistical tests, and charts are in the notebook.
 ## Tools Used
 
 Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebook
-
-[Your Name]
-[Your College Name]
-VOIS AICTE Batch 2026-2027
