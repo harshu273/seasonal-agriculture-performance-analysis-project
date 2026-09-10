@@ -8,7 +8,7 @@ Agricultural performance is known to vary across seasons, but raw farm data does
 
 ## Dataset
 
-`SAdata_raw.csv` — 4,000 rows, 28 columns, covering:
+`SA_data_raw.csv` — 4,000 rows, 28 columns, covering:
 - 8 crops (Rice, Wheat, Maize, Cotton, Sugarcane, Pulses, Groundnut, Chilli)
 - 3 seasons (Kharif, Rabi, Zaid)
 - 4 irrigation methods (Rainfed, Drip, Sprinkler, Flood)
